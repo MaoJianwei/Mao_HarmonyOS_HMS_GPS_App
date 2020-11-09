@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mao HMS Communication</string>
+    <string name="Mao_text_location_title_name">Mao Location Service</string>
+    <string name="Mao_button_start_get_location">Start Get Location</string>
+    <string name="Mao_button_stop_get_location">Stop Get Location</string>
+    <string name="Mao_button_once_get_location">Oneshot Get Location</string>
+</resources>
