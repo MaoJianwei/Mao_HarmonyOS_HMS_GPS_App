@@ -15,6 +15,11 @@
 local.properties
 .gradle
 /build/
+
+# Mao Android
+/app/release/
+/app/debug/
+/app/build/
 /.idea/
 
 # Ignore Gradle GUI config
